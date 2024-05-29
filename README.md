@@ -44,7 +44,7 @@ Finally, install Git LFS so that you can push models to the Hugging Face Hub:
 sudo apt-get install git-lfs
 ```
 
-To train SELM on [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct), you need to first apply for the access.
+To train SELM on [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct), you need to first apply for the access. To train SELM on [Phi-3-mini-4k-instruct](https://huggingface.co/microsoft/Phi-3-mini-4k-instruct), upgrade vllm by `pip install vllm==0.4.2`.
 
 Replace `HF_USERNAME` in run_zephyr.sh and run_llama.sh with your huggingface username.
 After the above preparation, run the following commands:
