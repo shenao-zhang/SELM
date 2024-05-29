@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da3e9f17-5590-4e57-9163-7784945fcde5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/recipes/phi3-selm/dpo/selm_config_full.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/phi3-selm/dpo/selm_config_full.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/c7b6c286-79e8-453a-858f-a07a9745d355_vllm-0.3.3.zip.355/vllm-0.3.3/vllm/core/block_manager.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2dJ0TLdUodeTLhYDzsCC5NJ6hzv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/v-zhangshen/Documents/research_shenao/URMwork&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\v-zhangshen\Documents\research_shenao\URMwork" />
+      <recent name="C:\Users\v-zhangshen\Documents\research_shenao\URMwork\recipes" />
+      <recent name="C:\Users\v-zhangshen\Documents\research_shenao\URM\recipes" />
+      <recent name="C:\Users\v-zhangshen\Documents\research_shenao\URM" />
+      <recent name="C:\Users\v-zhangshen\Documents\research_shenao\URM\scripts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\v-zhangshen\Documents\research_shenao\URMwork\figs" />
+      <recent name="C:\Users\v-zhangshen\Documents\research_shenao\URM\old_bash" />
+      <recent name="C:\Users\v-zhangshen\Documents\research_shenao\URM\recipes\zephyr-7b-beta\dpo" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da3e9f17-5590-4e57-9163-7784945fcde5" name="Changes" comment="" />
+      <created>1709710880322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709710880322</updated>
+      <workItem from="1709710882360" duration="145093000" />
+      <workItem from="1710301711877" duration="271014000" />
+      <workItem from="1712157971257" duration="6294000" />
+      <workItem from="1712176153563" duration="4759000" />
+      <workItem from="1712268677593" duration="639000" />
+      <workItem from="1712272697942" duration="62874000" />
+      <workItem from="1712725711408" duration="9000" />
+      <workItem from="1712725763891" duration="74788000" />
+      <workItem from="1713214005080" duration="46907000" />
+      <workItem from="1713477374715" duration="39393000" />
+      <workItem from="1713912858096" duration="19000" />
+      <workItem from="1714669348698" duration="6961000" />
+      <workItem from="1714762840604" duration="33498000" />
+      <workItem from="1715229774146" duration="46762000" />
+      <workItem from="1715785337509" duration="18592000" />
+      <workItem from="1716500323023" duration="1098000" />
+      <workItem from="1716510680592" duration="1449000" />
+      <workItem from="1716512955724" duration="17730000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
