@@ -3,7 +3,9 @@
 
 Code for Self-Exploring Language Models: Active Preference Elicitation for Online Alignment.
 
-Authors: [Shenao Zhang](https://shenao-zhang.github.io), [Donghan Yu](https://plusross.github.io/), [Hiteshi Sharma](https://scholar.google.com/citations?user=-9geUIIAAAAJ), [Ziyi Yang](https://ziyi-yang.github.io/), [Shuohang Wang](https://sites.google.com/site/shuohangsite/), [Hany Hassan Awadalla](https://www.microsoft.com/en-us/research/people/hanyh/), [Zhaoran Wang](https://zhaoranwang.github.io)
+Authors: [Shenao Zhang](https://shenao-zhang.github.io)¹, [Donghan Yu](https://plusross.github.io/)², [Hiteshi Sharma](https://scholar.google.com/citations?user=-9geUIIAAAAJ)², [Ziyi Yang](https://ziyi-yang.github.io/)², [Shuohang Wang](https://sites.google.com/site/shuohangsite/)², [Hany Hassan](https://www.microsoft.com/en-us/research/people/hanyh/)², [Zhaoran Wang](https://zhaoranwang.github.io)¹.
+
+¹Northwestern University,  ²Microsoft
 
 ![algo.png](figs/algo.png)
 ![illustration.jpg](figs/illustration.png)
