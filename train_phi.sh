@@ -2,7 +2,7 @@
 iter_num=3
 for i in $(seq 1 $iter_num); do
     username="HF_USERNAME"
-    alpha=0.0001
+    alpha=0.001
     name="SELM-Phi-3-mini-4k-instruct"
     fraction=$((61135/(iter_num)))
     training_dataset="HuggingFaceH4/ultrafeedback_binarized"

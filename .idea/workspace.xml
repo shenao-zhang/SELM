@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da3e9f17-5590-4e57-9163-7784945fcde5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/recipes/phi3-selm/dpo/selm_config_full.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/phi3-selm/dpo/selm_config_full.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_phi.sh" beforeDir="false" afterPath="$PROJECT_DIR$/train_phi.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
