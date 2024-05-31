@@ -1,7 +1,7 @@
 
 # Self-Exploring Language Models (SELM)
 
-Code for Self-Exploring Language Models: Active Preference Elicitation for Online Alignment.
+Code for [Self-Exploring Language Models: Active Preference Elicitation for Online Alignment](https://arxiv.org/abs/2405.19332).
 
 Authors: [Shenao Zhang](https://shenao-zhang.github.io)¹, [Donghan Yu](https://plusross.github.io/)², [Hiteshi Sharma](https://scholar.google.com/citations?user=-9geUIIAAAAJ)², [Ziyi Yang](https://ziyi-yang.github.io/)², [Shuohang Wang](https://sites.google.com/site/shuohangsite/)², [Hany Hassan](https://www.microsoft.com/en-us/research/people/hanyh/)², [Zhaoran Wang](https://zhaoranwang.github.io)¹.
 
@@ -66,6 +66,18 @@ Train SELM on [Phi-3-mini-4k-instruct](https://huggingface.co/microsoft/Phi-3-mi
 sh run_phi.sh
 ```
 
+## Citation
+
+```bibtex
+@misc{zhang2024selfexploring,
+      title={Self-Exploring Language Models: Active Preference Elicitation for Online Alignment}, 
+      author={Shenao Zhang and Donghan Yu and Hiteshi Sharma and Ziyi Yang and Shuohang Wang and Hany Hassan and Zhaoran Wang},
+      year={2024},
+      eprint={2405.19332},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
 
 ## Acknowledgement
 This repo is built upon [The Alignment Handbook](https://github.com/huggingface/alignment-handbook). We thank the authors for their great work. 
