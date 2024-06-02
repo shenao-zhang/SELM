@@ -69,13 +69,11 @@ sh run_phi.sh
 ## Citation
 
 ```bibtex
-@misc{zhang2024selfexploring,
-      title={Self-Exploring Language Models: Active Preference Elicitation for Online Alignment}, 
-      author={Shenao Zhang and Donghan Yu and Hiteshi Sharma and Ziyi Yang and Shuohang Wang and Hany Hassan and Zhaoran Wang},
-      year={2024},
-      eprint={2405.19332},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{zhang2024self,
+  title={Self-Exploring Language Models: Active Preference Elicitation for Online Alignment},
+  author={Zhang, Shenao and Yu, Donghan and Sharma, Hiteshi and Yang, Ziyi and Wang, Shuohang and Hassan, Hany and Wang, Zhaoran},
+  journal={arXiv preprint arXiv:2405.19332},
+  year={2024}
 }
 ```
 
