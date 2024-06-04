@@ -154,9 +154,9 @@ def main():
         ref_model_kwargs = None
 
     #########################
-    # Instantiate DPO trainer
+    # Instantiate SELM trainer
     #########################
-    trainer = OptDPOTrainer(
+    trainer = SELMTrainer(
         model,
         ref_model,
         model_init_kwargs=model_kwargs,
